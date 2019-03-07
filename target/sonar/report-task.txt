@@ -1,0 +1,6 @@
+projectKey=com.java.maven.jacoco:jacoco-demo
+serverUrl=http://10.10.12.221:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://10.10.12.221:9000/dashboard?id=com.java.maven.jacoco%3Ajacoco-demo
+ceTaskId=AWlWDO425TYREGfLCPk_
+ceTaskUrl=http://10.10.12.221:9000/api/ce/task?id=AWlWDO425TYREGfLCPk_
